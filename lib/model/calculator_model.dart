@@ -1,14 +1,10 @@
 import 'package:flutter/material.dart';
 
 List<dynamic> calculatorModel = [
-  "mc",
-  "m+",
-  "m-",
-  "mr",
   "AC",
-  "<-",
+  "<",
   "+/-",
-  "/",
+  "÷",
   "7",
   "8",
   "9",
